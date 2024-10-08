@@ -1,0 +1,4 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+print("아 집 가고 싶다")
